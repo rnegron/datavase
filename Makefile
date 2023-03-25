@@ -13,5 +13,5 @@ vet: lint
 .PHONY:	vet
 
 build: vet
-	go build cmd/dv.go
+	go build  -o dv cmd/dv/main.go
 .PHONY:	build

@@ -1,6 +1,9 @@
 # datavase
 
 
+Usage: `$ go install github.com/rnegron/datavase/cmd/dv@latest`
+
+
 $ dv set name foo
 ok
 
